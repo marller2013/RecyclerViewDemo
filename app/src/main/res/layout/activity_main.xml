@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.demo.recyclerview.MainActivity">
+
+    <TextView
+        android:id="@+id/demo1"
+        style="@style/textStyle"
+        android:text="demo1" />
+
+    <TextView
+        android:id="@+id/demo2"
+        style="@style/textStyle"
+        android:text="demo2" />
+
+    <TextView
+        android:id="@+id/demo3"
+        style="@style/textStyle"
+        android:text="demo3" />
+
+    <TextView
+        android:id="@+id/demo4"
+        style="@style/textStyle"
+        android:text="demo4" />
+
+    <TextView
+        android:id="@+id/demo5"
+        style="@style/textStyle"
+        android:text="demo5" />
+</LinearLayout>
